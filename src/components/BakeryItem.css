@@ -1,0 +1,130 @@
+h1{
+    font-size:5rem;
+    color:#4169e1;
+}
+
+.images{
+    width:24rem;
+}
+
+.item{
+    border:0.1rem solid #4169e1;
+    border-radius: 3rem;
+    padding:1rem;
+    background-color:#d7cec7;
+    margin-bottom:1.5rem;
+    margin-top:1.5rem;
+    margin-left:13.5rem;
+    margin-right:13.5rem;
+    color:#4169e1;
+}
+
+button{
+    background-color: #565656;
+    color:white;
+    border:none;
+    padding:1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.5rem #999;
+    margin-left:2rem;
+    margin-right:2rem;
+}
+
+.remove{
+    background-color: #e9e6e6;
+    color:red;
+    border:none;
+    box-shadow:none;
+    border-radius: 0.2rem;
+    padding-left:0.3rem;
+    padding-right:0.3rem;
+    padding-bottom:0.2rem;
+    padding-top:0.2rem;
+    margin-right:0.5rem;
+    font-weight:bold;
+}
+
+.remove:hover{
+    background-color: #cfcdcd;
+    color:red;
+    border:none;
+    box-shadow:none;
+    border-radius: 0.2rem;
+    padding-left:0.3rem;
+    padding-right:0.3rem;
+    padding-bottom:0.2rem;
+    padding-top:0.2rem;
+    margin-right:0.5rem;
+    font-weight:bold;
+}
+
+.remove:active{
+    background-color: #cfcdcd;
+    color:red;
+    border:none;
+    box-shadow:none;
+    border-radius: 0.2rem;
+    padding-left:0.3rem;
+    padding-right:0.3rem;
+    padding-bottom:0.2rem;
+    padding-top:0.2rem;
+    margin-right:0.5rem;
+    font-weight:bold;
+    transform: translateY(0.1rem);}
+
+button:hover{
+    background-color: #888585;
+    color:white;
+    border:none;
+    padding:1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+button:active{
+    box-shadow: 0 0.2rem rgb(49, 49, 49);
+    background-color: #565656;
+    transform: translateY(0.4rem);
+}
+
+.reset{
+    background-color: #d7cec7;
+    color:black;
+    border:none;
+    box-shadow:none;
+    border-radius: 0.2rem;
+    padding-left:0.3rem;
+    padding-right:0.3rem;
+    padding-bottom:0.0rem;
+    padding-top:0.0rem;
+    margin-right:0.5rem;
+    font-weight:bold;
+}
+
+.reset:hover{
+    background-color: #d7cec7;
+    color:red;
+    border:none;
+    box-shadow:none;
+    border-radius: 0.2rem;
+    padding-left:0.3rem;
+    padding-right:0.3rem;
+    padding-bottom:0.0rem;
+    padding-top:0.0rem;
+    margin-right:0.5rem;
+    font-weight:bold;
+}
+
+.reset:active{
+    background-color: #d7cec7;
+    color:red;
+    border:none;
+    box-shadow:none;
+    border-radius: 0.2rem;
+    padding-left:0.3rem;
+    padding-right:0.3rem;
+    padding-bottom:0.0rem;
+    padding-top:0.0rem;
+    margin-right:0.5rem;
+    font-weight:bold;
+    transform: translateY(0.1rem);}
