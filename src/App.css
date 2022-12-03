@@ -7,6 +7,10 @@
   pointer-events: none;
 }
 
+li{
+  list-style: none;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -35,4 +39,32 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.cart{
+  background-color: #cecece;
+  border:0.1rem solid black;
+  padding:1rem;
+  background-color:#d7cec7;
+  margin-bottom:1.5rem;
+  margin-left:10.5rem;
+  margin-right:10.5rem;
+}
+
+.filters{
+  border:0.1rem solid black;
+  border-radius: 3rem;
+  padding:1rem;
+  background-color:#ececec;
+  margin-bottom:1.5rem;
+  margin-top:1.5rem;
+  margin-left:10.5rem;
+  margin-right:10.5rem;
+  color:black;
+}
+
+.products{
+  display:flex;
+  align-items: center;
+  justify-content: center;
 }
