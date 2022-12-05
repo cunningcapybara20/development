@@ -3,7 +3,7 @@
       "name": "Chocolate Chip Cookies",
       "description": "Four classic chocolate chip cookies",
       "price": 7.99,
-      "image": "images/ccc.jpg",
+      "image": "images/choc-chip-cookies.jpg",
       "id":1,
       "isTasty": true,
       "isRound": true
@@ -12,7 +12,7 @@
       "name": "Matcha Mille Crepe Cake",
       "description": "Layers of matcha crepe and matcha cream filling, topped with strawberries",
       "price": 4.99,
-      "image": "images/mm.jpg",
+      "image": "images/matcha-mille-crepe-cake.jpg",
       "id":2,
       "isTasty": true,
       "isRound": true
@@ -21,7 +21,7 @@
       "name": "Egg Custard Bun",
       "description": "A fluffy steamed bun with a savory egg filling",
       "price": 2.99,
-      "image": "images/ecb.jpg",
+      "image": "images/egg-custard-bun.jpg",
       "id":3,
       "isTasty": true,
       "isRound": true
@@ -30,7 +30,7 @@
       "name": "Steamed Taro Buns",
       "description": "Two soft steamed buns filled with gooey purple taro filling",
       "price": 5.99,
-      "image": "images/tb.jpg",
+      "image": "images/taro-bun.jpg",
       "id":4,
       "isTasty": true,
       "isRound": true
@@ -39,8 +39,8 @@
       "name": "Chocolate Fudge Brownie",
       "description": "A rich fudge brownie drizzled with chocolate ganache",
       "price": 3.99,
-      "image": "images/cfb.jpg",
-      "id":5,
+      "image": "images/choc-fudge-brownie.jpg",
+      "id"5,
       "isTasty": true,
       "isRound": false
     },
@@ -48,7 +48,7 @@
       "name": "Macarons",
       "description": "A box of three macarons in assorted flavors",
       "price": 4.99,
-      "image": "images/m.jpg",
+      "image": "images/macaron.jpg",
       "id":6,
       "isTasty": true,
       "isRound": false
@@ -57,7 +57,7 @@
       "name": "Multigrain Bread",
       "description": "A loaf of fresh-baked multigrain bread",
       "price": 4.99,
-      "image": "images/mb.jpg",
+      "image": "images/multigrain-bread.jpg",
       "id":7,
       "isTasty": false,
       "isRound": false
@@ -66,7 +66,7 @@
       "name": "Croissant",
       "description": "A classic butter croissant with a flaky crust",
       "price": 2.99,
-      "image": "images/c.jpg",
+      "image": "images/croissant.jpg",
       "id":8,
       "isTasty": true,
       "isRound": false
@@ -75,7 +75,7 @@
       "name": "Toast with Butter",
       "description": "A slice of toast with a pat of butter",
       "price": 1.99,
-      "image": "images/twb.jpg",
+      "image": "images/toast-w-butter.jpg",
       "id":9,
       "isTasty": false,
       "isRound": false
@@ -84,7 +84,7 @@
       "name": "Tiramisu",
       "description": "A classic tiramisu with layers of coffee-soaked ladyfingers and mascarpone cream",
       "price": 3.99,
-      "image": "images/t.jpg",
+      "image": "images/tiramisu.jpg",
       "id":10,
       "isTasty": true,
       "isRound": false
@@ -93,7 +93,7 @@
       "name": "Egg Tart",
       "description": "A flaky pastry shell filled with a sweet egg custard",
       "price": 2.99,
-      "image": "images/et.jpg",
+      "image": "images/egg-tart.jpg",
       "id":11,
       "isTasty": false,
       "isRound": true
@@ -102,7 +102,7 @@
       "name": "Everything Bagel",
       "description": "A toasted bagel with sesame seeds, poppy seeds, and dried onion",
       "price": 2.99,
-      "image": "images/eb.jpg",
+      "image": "images/everything-bagel.jpg",
       "id":12,
       "isTasty": false,
       "isRound": true
@@ -111,7 +111,7 @@
       "name": "Gingerbread Man",
       "description": "A soft gingerbread cookie with a sweet icing glaze",
       "price": 2.99,
-      "image": "images/gm.jpg",
+      "image": "images/gingerbread-man.jpg",
       "id":13,
       "isTasty": true,
       "isRound": true
@@ -120,7 +120,7 @@
       "name": "Cheesecake",
       "description": "A slice of classic New York cheesecake topped with strawberry",
       "price": 3.99,
-      "image": "images/cc.jpg",
+      "image": "images/cheesecake.jpg",
       "id":14,
       "isTasty": true,
       "isRound": true
@@ -129,7 +129,7 @@
       "name": "Cream Puff",
       "description": "Light and airy pâte à choux filled with sweet whipped cream",
       "price": 2.99,
-      "image": "images/cp.jpg",
+      "image": "images/cream-puff.jpg",
       "id":15,
       "isTasty": true,
       "isRound": true
