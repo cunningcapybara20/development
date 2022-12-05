@@ -19,26 +19,26 @@ function App() {
   const [tastyStatus, setTastyStatus] = useState(2)
   const [roundStatus, setRoundStatus] = useState(2)
   const [currentData, setCurrentData] = useState(bakeryData)
-  const sortedData = sort(bakeryData.slice())
+  const sortedData = sorted(bakeryData.slice())
   const [priceStatus, setPriceStatus] = useState(2)
 
   function sortItems(){
     setPriceStatus(priceStatus + 1)
     if ((priceStatus % 2) === 0){
-        setCurrentData(sort(currentData))
+        setCurrentData(sorted(currentData))
     } else {
-        setCurrentData(unsort(currentData))
+        setCurrentData(unsorted(currentData))
     }
   }
 
-  function sort(dataList) {
+  function sorted(dataList) {
       dataList.sort((a, b) => {
         return (a.price < b.price) ? -1 : (a.price > b.price) ? 1 : 0;
       })
     return dataList
   }
 
-  function unsort(dataList) {
+  function unsorted(dataList) {
     dataList.sort((a, b) => {
       return (a.id < b.id) ? -1 : (a.id > b.id) ? 1 : 0;
     })
